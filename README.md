@@ -17,8 +17,6 @@ The primary objectives of this internship were:
 
 2. **JavaScript Mastery:** Acquiring skills in JavaScript to enhance interactivity and user experience.
 
-3. **Front-End Frameworks:** Exploring front-end frameworks like React.js for efficient and scalable web application development.
-
 
 ## Acknowledgments
 
